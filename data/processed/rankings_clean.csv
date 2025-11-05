@@ -1,0 +1,5 @@
+symbol,name,exchange,assetType,ipoDate,delistingDate,status,ticker,cik,asof,water_intensity_m3,baseline_water_stress,has_water_targets,env_score,social_score,gov_score,water_intensity,basin_stress,water_targets,water_score,env_score_pillar,social_score_pillar,gov_score_pillar,overall_score,rank
+MSFT,Microsoft Corporation,NASDAQ,Stock,1986-03-13,,Active,MSFT,789019.0,2025-11-05,5.0,0.1,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.8,0.1,0.1,0.1,0.52,1.0
+AAPL,Apple Inc,NASDAQ,Stock,1980-12-12,,Active,AAPL,320193.0,2025-11-05,7.0,0.2,1.0,0.8333333333333334,0.8333333333333334,0.8,0.8666666666666667,0.7499999999999999,1.0,0.6908333333333334,0.0833333333333333,0.0833333333333333,0.08,0.4475,2.0
+A,Agilent Technologies Inc,NYSE,Stock,1999-11-18,,Active,A,1090872.0,2025-11-05,10.0,0.5,1.0,0.0,0.0,0.0,0.6666666666666666,0.0,1.0,0.4333333333333333,0.0,0.0,0.0,0.26,3.0
+AA,Alcoa Corp,NYSE,Stock,2016-10-18,,Active,AA,1675149.0,2025-11-05,20.0,0.3,0.0,0.1666666666666666,0.1666666666666666,0.2,0.0,0.5,0.0,0.125,0.0166666666666666,0.0166666666666666,0.02,0.082,4.0

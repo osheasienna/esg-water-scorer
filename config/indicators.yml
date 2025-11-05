@@ -1,0 +1,36 @@
+indicators:
+  water_intensity:
+    source: manual_csv
+    column: water_intensity_m3
+    higher_is_better: false
+    normalizer: winsorized_minmax
+
+  basin_stress:
+    source: aqueduct
+    column: baseline_water_stress
+    higher_is_better: false
+    normalizer: winsorized_minmax
+
+  water_targets:
+    source: cdp
+    column: has_water_targets
+    higher_is_better: true
+    normalizer: minmax
+
+  env_score:
+    source: manual_csv
+    column: env_score
+    higher_is_better: true
+    normalizer: winsorized_minmax
+
+  social_score:
+    source: manual_csv
+    column: social_score
+    higher_is_better: true
+    normalizer: winsorized_minmax
+
+  gov_score:
+    source: manual_csv
+    column: gov_score
+    higher_is_better: true
+    normalizer: winsorized_minmax

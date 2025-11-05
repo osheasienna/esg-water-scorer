@@ -1,0 +1,101 @@
+symbol,name,exchange,assetType,ipoDate,delistingDate,status,ticker,cik,asof,water_intensity_m3,baseline_water_stress,has_water_targets,env_score,social_score,gov_score,water_intensity,basin_stress,water_targets,water_score,env_score_pillar,social_score_pillar,gov_score_pillar,overall_score,rank
+MSFT,Microsoft Corporation,NASDAQ,Stock,1986-03-13,,Active,MSFT,789019.0,2025-11-05,5.0,0.1,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.8,0.1,0.1,0.1,0.52,1.0
+AAPL,Apple Inc,NASDAQ,Stock,1980-12-12,,Active,AAPL,320193.0,2025-11-05,7.0,0.2,1.0,0.8333333333333334,0.8333333333333334,0.8,0.8666666666666667,0.7499999999999999,1.0,0.6908333333333334,0.0833333333333333,0.0833333333333333,0.08,0.4475,2.0
+A,Agilent Technologies Inc,NYSE,Stock,1999-11-18,,Active,A,1090872.0,2025-11-05,10.0,0.5,1.0,0.0,0.0,0.0,0.6666666666666666,0.0,1.0,0.4333333333333333,0.0,0.0,0.0,0.26,3.0
+AA,Alcoa Corp,NYSE,Stock,2016-10-18,,Active,AA,1675149.0,2025-11-05,20.0,0.3,0.0,0.1666666666666666,0.1666666666666666,0.2,0.0,0.5,0.0,0.125,0.0166666666666666,0.0166666666666666,0.02,0.082,4.0
+OPP-P-A,RiverNorth/DoubleLine Strategic opportunity fund Inc,NYSE,Stock,2020-10-19,,Active,,,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OPEX,Tradr 2X Long OPEN Daily ETF,BATS,Stock,2025-10-23,,Active,,,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OPFI,OppFi Inc - Class A,NYSE,Stock,2020-11-20,,Active,OPFI,1818502.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OPFI-WS,OppFi Inc Wt Exp 08312027,NYSE,Stock,2021-07-21,,Active,,,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OPHC,Optimumbank Holdings Inc,NASDAQ,Stock,2003-06-23,,Active,OPHC,1288855.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OPK,Opko Health Inc,NASDAQ,Stock,1995-11-02,,Active,OPK,944809.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OPRA,Opera Ltd,NASDAQ,Stock,2018-07-27,,Active,OPRA,1737450.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OPP-P-B,RiverNorth/DoubleLine Strategic opportunity fund Inc,NYSE,Stock,2021-11-16,,Active,,,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OPCH,Option Care Health Inc,NASDAQ,Stock,1996-08-15,,Active,OPCH,1014739.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OPRT,Oportun Financial Corp,NASDAQ,Stock,2019-09-26,,Active,OPRT,1538716.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OPRX,OptimizeRx Corp,NASDAQ,Stock,2007-07-13,,Active,OPRX,1448431.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OPT,Opthea Ltd,NASDAQ,Stock,2012-04-12,,Active,OPT,1815620.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OPTN,OptiNose Inc,NASDAQ,Stock,2017-10-13,,Active,,,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OPEN,Opendoor Technologies Inc,NASDAQ,Stock,2020-06-18,,Active,OPEN,1801169.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OPAL,OPAL Fuels Inc - Class A,NASDAQ,Stock,2022-07-22,,Active,OPAL,1842279.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OPBK,OP Bancorp,NASDAQ,Stock,2005-07-22,,Active,OPBK,1722010.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OPTX,NETOPTIX CORP,NASDAQ,Stock,2023-11-08,,Active,OPTX,1866816.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OPAD,Offerpad Solutions Inc - Class A,NYSE,Stock,2020-12-11,,Active,OPAD,1825024.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OP,OceanPal Inc,NASDAQ,Stock,2021-11-30,,Active,OP,1869467.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OOMA,Ooma Inc,NYSE,Stock,2015-07-17,,Active,OOMA,1327688.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+ONTO,Onto Innovation Inc,NYSE,Stock,1992-02-26,,Active,ONTO,704532.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+ONTF,ON24 Inc,NYSE,Stock,2021-02-03,,Active,ONTF,1110611.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+ONON,On Holding AG Class A,NYSE,Stock,2021-09-15,,Active,ONON,1858985.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+ONMDW,OneMedNet Corp - Warrants (05/05/2026),NASDAQ,Stock,2021-06-24,,Active,ONMDW,1849380.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+ONMD,OneMedNet Corp,NASDAQ,Stock,2023-11-08,,Active,ONMD,1849380.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+ONL,Orion Office REIT Inc,NYSE,Stock,2021-11-15,,Active,ONL,1873923.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+ONIT,Ocwen Financial Corp,NYSE,Stock,1996-09-25,,Active,ONIT,873860.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+ONFOW,Onfolio Holdings Inc - Warrants (02/01/2027),NASDAQ,Stock,2022-08-26,,Active,ONFOW,1825452.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OPTT,Ocean Power Technologies - Reg S,NYSE MKT,Stock,2007-04-25,,Active,OPTT,1378140.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OPXS,Optex Systems Holdings Inc,NASDAQ,Stock,2009-05-04,,Active,OPXS,1397016.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OPTXW,Syntec Optics Holdings Inc Wt Exp,NASDAQ,Stock,2023-11-08,,Active,OPTXW,1866816.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+ORIS,Oriental Rise Holdings Ltd,NASDAQ,Stock,2024-10-17,,Active,ORIS,1964664.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OSCX,Defiance Daily Target 2x Long OSCR ETF,NASDAQ,Stock,2025-09-25,,Active,,,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OSCR,Oscar Health Inc - Class A,NYSE,Stock,2021-03-03,,Active,OSCR,1568651.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OSBC,Old Second Bancorporation Inc,NASDAQ,Stock,1995-08-18,,Active,OSBC,357173.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OS,OneStream Inc - Class A,NASDAQ,Stock,2024-07-24,,Active,OS,1889956.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+ORRF,Orrstown Financial Services Inc,NASDAQ,Stock,1999-05-13,,Active,ORRF,826154.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+ORO,Arrow Valtoro ETF,BATS,Stock,2025-10-17,,Active,,,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+ORN,Orion Group Holdings Inc,NYSE,Stock,2007-12-20,,Active,ORN,1402829.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+ORMP,Oramed Pharmaceuticals Inc,NASDAQ,Stock,2006-04-21,,Active,ORMP,1176309.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+ORLY,O`Reilly Automotive Inc,NASDAQ,Stock,1993-04-23,,Active,ORLY,898173.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+ORLA,Orla Mining Ltd,NYSE MKT,Stock,2017-10-03,,Active,ORLA,1680056.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+ORKT,Orangekloud Technology Inc - Class A,NASDAQ,Stock,2024-07-25,,Active,ORKT,1979407.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+ORKA,ARCA biopharma Inc,NASDAQ,Stock,1997-08-08,,Active,ORKA,907654.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+ORIQU,Origin Investment Corp I - Units (1 Ord Cls & 1/2 War),NASDAQ,Stock,2025-07-02,,Active,ORIQU,2044523.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+ONEW,Onewater Marine Inc - Class A,NASDAQ,Stock,2020-02-07,,Active,ONEW,1772921.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+ORIQ,Origin Investment Corp I,NASDAQ,Stock,2025-09-09,,Active,ORIQ,2044523.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+ORIC,ORIC Pharmaceuticals Inc,NASDAQ,Stock,2020-04-24,,Active,ORIC,1796280.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+ORI,Old Republic International Corp,NYSE,Stock,1990-03-26,,Active,ORI,74260.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+ORGO,Organogenesis Holdings Inc - Class A,NASDAQ,Stock,2017-01-05,,Active,ORGO,1661181.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+ORGNW,Origin Materials Inc - Warrants (23/06/2026),NASDAQ,Stock,2020-09-04,,Active,ORGNW,1802457.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+ORGN,Origin Materials Inc,NASDAQ,Stock,2020-09-04,,Active,ORGN,1802457.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+ORCL,Oracle Corp,NYSE,Stock,1986-03-12,,Active,ORCL,1341439.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+ORC,Orchid Island Capital Inc,NYSE,Stock,2013-02-14,,Active,ORC,1518621.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+ORBS,Eightco Holdings Inc,NASDAQ,Stock,2022-06-30,,Active,ORBS,1892492.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+ORA,Ormat Technologies Inc,NYSE,Stock,2004-11-11,,Active,ORA,1296445.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OR,Osisko Gold Royalties Ltd,NYSE,Stock,2016-01-04,,Active,OR,1627272.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OPY,Oppenheimer Holdings Inc - Class A,NYSE,Stock,1993-08-16,,Active,OPY,791963.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+ONFO,Onfolio Holdings Inc,NASDAQ,Stock,2022-08-26,,Active,ONFO,1825452.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+ONDS,Ondas Holdings Inc,NASDAQ,Stock,2018-10-25,,Active,ONDS,1646188.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+ONEG,OneConstruction Group Ltd,NASDAQ,Stock,2024-12-31,,Active,ONEG,2030834.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OHI,Omega Healthcare Investors Inc,NYSE,Stock,1992-08-07,,Active,OHI,888491.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OKYO,OKYO Pharma Ltd - New,NASDAQ,Stock,2022-05-17,,Active,OKYO,1849296.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OKUR,Reneo Pharmaceuticals Inc - Class A,NASDAQ,Stock,2024-10-07,,Active,OKUR,1637715.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OKTX,Tradr 2X Long OKTA Daily ETF,BATS,Stock,2025-10-08,,Active,,,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OKTA,Okta Inc - Class A,NASDAQ,Stock,2017-04-07,,Active,OKTA,1660134.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OKLO,Oklo Inc,NYSE,Stock,2021-07-08,,Active,OKLO,1849056.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OKE,Oneok Inc,NYSE,Stock,1985-07-01,,Active,OKE,1039684.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OIS,Oil States International Inc,NYSE,Stock,2001-02-09,,Active,OIS,1121484.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OII,Oceaneering International Inc,NYSE,Stock,1990-03-26,,Active,OII,73756.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OI,O-I Glass Inc,NYSE,Stock,1991-12-11,,Active,OI,812074.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OHPAW,Orion Acquisition Corp - Warrants (19/02/2026),NASDAQ,Stock,2021-04-23,,Active,,,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OHPAU,Orion Acquisition Corp - Units (1 Ord Share Class A & 1/4 War),NASDAQ,Stock,2021-03-02,,Active,,,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OHPA,Orion Acquisition Corp - Class A,NASDAQ,Stock,2021-04-26,,Active,,,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OGS,ONE Gas Inc,NYSE,Stock,2014-01-16,,Active,OGS,1587732.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OLED,Universal Display Corp,NASDAQ,Stock,1996-04-12,,Active,OLED,1005284.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OGN,Organon & Company,NYSE,Stock,2021-05-14,,Active,OGN,1821825.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OGI,OrganiGram Holdings Inc,NASDAQ,Stock,2014-08-27,,Active,OGI,1620737.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OGEN,Oragenics Inc,NYSE MKT,Stock,2004-02-25,,Active,OGEN,1174940.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OGE,Oge Energy Corp,NYSE,Stock,1987-12-30,,Active,OGE,1021635.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OGCP,Empire State Realty OP LP,NYSE ARCA,Stock,2013-10-08,,Active,OGCP,1553079.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OFSSO,OFS Capital Corp,NASDAQ,Stock,2025-07-24,,Active,OFSSO,1487918.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OFSSH,OFS Capital Corp,NASDAQ,Stock,2021-10-28,,Active,OFSSH,1487918.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OFS,OFS Capital Corp,NASDAQ,Stock,2012-11-08,,Active,OFS,1487918.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OFLX,Omega Flex Inc,NASDAQ,Stock,2005-08-01,,Active,OFLX,1317945.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OFIX,Orthofix Medical Inc,NASDAQ,Stock,1992-04-24,,Active,OFIX,884624.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OFG,OFG Bancorp,NYSE,Stock,1990-03-28,,Active,OFG,1030469.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OFAL,OFA Group,NASDAQ,Stock,2025-05-21,,Active,OFAL,2036307.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OLB,OLB Group Inc,NASDAQ,Stock,2007-07-13,,Active,OLB,1314196.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OLK,Olink Holding AB (publ),NASDAQ,Stock,2021-03-25,,Active,,,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OSIS,OSI Systems Inc,NASDAQ,Stock,1997-10-02,,Active,OSIS,1039065.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+OMH,Ohmyhome Ltd,NASDAQ,Stock,2023-03-21,,Active,OMH,1944902.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+ONCY,Oncolytics Biotech Inc,NASDAQ,Stock,2018-05-31,,Active,ONCY,1129928.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+ONCT,Oncternal Therapeutics Inc,NASDAQ,Stock,2004-02-03,,Active,,,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+ONCO,Onconetix Inc,NASDAQ,Stock,2022-02-18,,Active,ONCO,1782107.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0
+ONCHU,1RT Acquisition Corp - Units (1 Ord Cls A & 1 War),NASDAQ,Stock,2025-07-02,,Active,ONCHU,2054272.0,2025-11-05,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,5.0

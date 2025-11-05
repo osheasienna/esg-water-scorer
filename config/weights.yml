@@ -1,0 +1,13 @@
+pillar_weights:
+  water: 0.60
+  env:   0.15
+  social: 0.15
+  gov:   0.10
+
+indicator_weights:
+  water_intensity: 0.35
+  basin_stress:    0.25
+  water_targets:   0.20
+  env_score:        0.10
+  social_score:     0.10
+  gov_score:        0.10

@@ -1,0 +1,8 @@
+{
+  "asof": "2025-11-05",
+  "rows": 7878,
+  "sources": [
+    "data/raw/alphavantage/listing_status_active_2025-11-05.csv",
+    "data/raw/sec/company_tickers_2025-11-05.json"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "cv": "GroupKFold by sector (5)",
+  "r2_cv_mean": -0.018969373203911077,
+  "r2_cv_std": 0.04384944058833826,
+  "n_samples": 353,
+  "n_features": 3,
+  "features": [
+    "w_stress_weighted",
+    "pct_ops_high_stress",
+    "water_vulnerability"
+  ],
+  "n_groups": 353
+}

@@ -1,0 +1,42 @@
+asof_env: ASOF
+include_exchanges:
+  - NYSE
+  - NASDAQ
+  - NYSE AMERICAN
+  - XPAR   # Euronext Paris
+  - XAMS   # Euronext Amsterdam
+  - XBRU   # Euronext Brussels
+  - XDUB   # Euronext Dublin
+  - XLIS   # Euronext Lisbon
+  - XMIL   # Euronext Milan
+  - XOSL   # Oslo Børs (Euronext Oslo)
+asset_types_equity:
+  - Stock
+  - Common Stock
+  - Equity
+
+exclude_asset_type_keywords:
+  - ETF
+  - ETN
+  - Fund
+  - Preferred
+  - Preference
+  - Warrant
+  - Certificate
+  - ADR
+  - Note
+  - Unit
+  - SPAC
+status_keep:
+  - Active
+dedupe_key_priority:
+  - isin
+  - ticker_exchange
+id_priority:
+  - isin
+  - cik
+  - ticker
+tie_breakers:
+  - has_isin desc
+  - asset_type in ["Common Stock","Stock"] desc
+  - name asc

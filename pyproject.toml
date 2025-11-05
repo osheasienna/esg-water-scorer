@@ -1,8 +1,11 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
 [project]
 name = "esgwater"
 version = "0.1.0"
-description = "Transparent ESG + Water Risk scoring"
-authors = [{name="Your Name"}]
+description = "ESG + Water scarcity scoring"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
@@ -13,16 +16,18 @@ dependencies = [
   "pydantic>=2.8",
   "pyyaml>=6.0",
   "requests>=2.32",
-  "typer>=0.12",
+  "click>=8.0",
   "rich>=13.7",
   "matplotlib>=3.8",
   "plotly>=5.22",
-  "shap>=0.46"
+  "shap>=0.46",
 ]
 
-[project.optional-dependencies]
-full = ["spacy", "beautifulsoup4", "lxml"]
+[tool.setuptools]
+package-dir = {"" = "src"}
 
-[tool.pytest.ini_options]
-minversion = "7.0"
-addopts = "-q"
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[project.scripts]
+esgwater = "esgwater.cli:cli"

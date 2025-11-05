@@ -1,0 +1,4 @@
+symbol,name,sector,ml_score,w_stress_weighted,pct_ops_high_stress,water_vulnerability
+AAPL,Apple Inc,,50.0,3.65,0.0,0.3
+KO,Coca-Cola Company,,50.0,3.1,0.5,0.3
+TSM,Taiwan Semiconductor Manufacturing,,50.0,4.58,1.0,0.3
