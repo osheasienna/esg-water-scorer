@@ -1,13 +1,23 @@
 {
-  "cv": "GroupKFold by sector (5)",
-  "r2_cv_mean": -0.018969373203911077,
-  "r2_cv_std": 0.04384944058833826,
-  "n_samples": 353,
-  "n_features": 3,
+  "r2_cv_mean": -0.10125142830833445,
+  "r2_cv_std": 0.09018112177325321,
+  "ic_cv_mean": 0.24069306576131633,
+  "ic_cv_std": 0.06485833990831825,
+  "ic_sec_mean": 0.24069306576131633,
+  "ic_sec_std": 0.06485833990831825,
+  "n_splits": 2,
+  "cv": "GroupKFold by sector (2)",
+  "n_samples": 357,
+  "n_features": 9,
   "features": [
-    "w_stress_weighted",
-    "pct_ops_high_stress",
-    "water_vulnerability"
-  ],
-  "n_groups": 353
+    "w_stress_weighted_z_sec",
+    "pct_ops_high_stress_z_sec",
+    "water_vulnerability_z_sec",
+    "bm_z_sec",
+    "roe_z_sec",
+    "profit_margin_z_sec",
+    "stress_x_vuln",
+    "stress_sq",
+    "hs_flag"
+  ]
 }
